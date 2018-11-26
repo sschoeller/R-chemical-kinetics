@@ -1,2 +1,2 @@
-# R chemical Kinetics 
+# R Chemical Kinetics 
 Stochastic Simulation of Chemical Kinetics
