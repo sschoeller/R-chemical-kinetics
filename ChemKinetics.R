@@ -1,4 +1,4 @@
-# Math 343
+# Inspired by Math 343
 # Programmer: Scott Schoeller
 # Project: Stochastic Simulation - Chemical Kinetics 
 
