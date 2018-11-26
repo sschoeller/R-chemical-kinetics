@@ -1,2 +1,2 @@
-# Math-343-project
+# R chemical Kinetics 
 Stochastic Simulation of Chemical Kinetics
